@@ -1,5 +1,6 @@
 Contenido inicial del proyecto
 <<<<<<< HEAD
+<<<<<<< HEAD
 User1: Implementando Caracteristica A - Parte 1
 User1: Implementando Caracteristica A - Parte 2
 =======
@@ -9,3 +10,7 @@ User2: Implementando Caracteristica B - Parte 3
 User2: Implementando Caracteristica B - Parte 4
 User2: Implementando Caracteristica B - Parte 5 (post-merge)
 >>>>>>> b8b31af62ff932e4223e7e51878fda7e76dd564f
+=======
+User3: Corrigiendo Bug C - Parte 1
+User3: Corrigiendo Bug C - Parte 2
+>>>>>>> 48f9d0c59585a59b5ecc81285da50813f8981659
